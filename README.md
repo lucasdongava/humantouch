@@ -5,6 +5,7 @@ Desafios numa página só, com rolagem vertical: arrastar a caixa, subir o volum
 
 - A imagem da câmera é processada no navegador e não é enviada.
 - Sem câmera, tudo funciona com mouse ou toque.
+- Idiomas: inglês (padrão), português, espanhol e chinês, pelo botão no menu.
 - Arquivo único: `index.html` (fonte Inter e MediaPipe carregados da web).
 
 Online: https://lucasgava.com/humantouch/
